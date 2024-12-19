@@ -1,16 +1,35 @@
-# google-colab-projects
+# Machine Learning Portfolio
+Welcome to my Machine Learning portfolio repository! This repository showcases a collection of projects I have worked on, demonstrating my skills and experience in machine learning, deep learning, and data analysis. Below is the list of projects included in this repository:
 
-This repository is to manage my project based on the scope of the Machine Learning branch.
-Therefore, this repository has several branches that align with its topic
+## Project List
+### CNN Image Classification - Aksara Jawa
 
-1. image-classification<br>
-   This branch stores my project about image classification
+A convolutional neural network (CNN) model to classify Javanese script (Aksara Jawa).
 
-2. natural-language-processing<br>
-   This branch stores my project about Natural Language Processing
+### CNN Image Classification - Dog Emotion with Data Augmentation Strategy
 
-3. time-series<br>
-   This branch stores my project about time series analysis dataset
+A CNN model designed to classify different dog emotions, incorporating advanced data augmentation techniques.
 
-4. general<br>
-   this branch stores my portfolio and general topic that is general
+### CNN Image Classification - Traffic Sign Model
+
+A CNN-based model for classifying various traffic signs to support autonomous driving systems.
+
+### Predictive Analysis with CRISP-DM Methods
+
+A project demonstrating predictive analysis using the CRISP-DM (Cross Industry Standard Process for Data Mining) methodology.
+
+### Sentiment Analysis with Deep Learning using IndoNLU Datasets
+
+A deep learning-based sentiment analysis project utilizing the IndoNLU datasets for Indonesian language processing.
+
+### Sentiment Analysis using Support Vector Machine (SVM) with IndoNLU Dataset
+
+A sentiment analysis project leveraging SVM and IndoNLU datasets to classify sentiments in the Indonesian language.
+
+### How to Explore the Projects
+Each project is organized in its own folder and includes:
+
+- Code implementation
+- Data preprocessing steps (where applicable)
+- Model training and evaluation details
+- Additional resources or insights specific to the project
